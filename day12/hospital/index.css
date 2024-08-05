@@ -1,0 +1,15 @@
+.container {
+  width: 300px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hospital {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 300px;
+  padding: 15px 15px;
+  font-size: 13px;
+}
